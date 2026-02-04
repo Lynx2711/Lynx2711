@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lynx2711
 - 👀 I’m interested in coding and getting creative with those codes
 - 🌱 I’m currently learning dsa with cpp and mern stack
-- 📫 How to reach me -> www.linkedin.com/in/aditi-verma-9b882a28a
+- 📫 How to reach me -> www.linkedin.com/in/aditiverma123
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i like to draw stuffs
 <!---
